@@ -1,0 +1,14 @@
+.el {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+  }
+  .name {
+    font-weight: 600;
+    font-size: 18px;
+  }
+  .btn {
+    background-color: rgb(141, 112, 196);
+    height: 50px;
+    color: white;
+  }

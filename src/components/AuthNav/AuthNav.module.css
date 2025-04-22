@@ -1,0 +1,9 @@
+.el {
+    display: flex;
+    gap: 15px;
+  }
+  
+  .link {
+    font-weight: 600;
+    font-size: 18px;
+  }
